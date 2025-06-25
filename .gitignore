@@ -58,14 +58,10 @@ obj/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-Makefile
 
 # --- Backup Files ---
 *~
 
-# --- Homebrew Channel icons/metafiles (if generated automatically) ---
-icon.png
-meta.xml
 
 # --- Environment Files ---
 .env
