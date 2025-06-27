@@ -1,0 +1,8 @@
+<app version="1.1">
+    <name>Snake Wii</name>
+    <coder>YourName</coder>
+    <version>1.0</version>
+    <release_date>2025/06/27</release_date>
+    <short_description>Classic Snake for Wii</short_description>
+    <long_description>Enjoy the classic Snake game on your Nintendo Wii! Play with your Wiimote D-Pad. Coded with love for the Homebrew Channel.</long_description>
+</app>
